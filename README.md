@@ -4,11 +4,11 @@
 I'm a Full-Stack Web Developer 💻!
 </h2> 
 
-## 🌱 I'm currently working on
+## 🌱 Current Project
 
 - Ecommerce Site (MERN)
 
-## 🪴 I'm currently learning
+## 🪴Currently Learning
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
