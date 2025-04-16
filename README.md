@@ -18,8 +18,11 @@ I’m a data analyst with a background in Health Science, currently pursuing my 
 
 ## 🌱  Projects
 
-- 🔍 SQL Data Analysis – Healthcare Dataset
-Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.
+- Healthcare Dataset 
+<p>Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.</p>
+
+- Customer Purchase Behavior Dashboard
+<p>Analyze and visualize online retail transactions to uncover customer purchasing trends, segment high-value customers, and identify sales insights for business strategy.</p>
 
 ## 🪴 Currently Learning
 
@@ -39,6 +42,7 @@ Analyzing large-scale healthcare data to extract insights and trends using SQL a
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 📈 Data Visualization
 
