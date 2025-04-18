@@ -4,14 +4,6 @@
 I'm a Research Computing Data Analyst @ BCH 💻!
 </h2> 
 
-## 📚 Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Currently Learning](#currently-learning)
-- [Skills](#skills)
-- [Contact](#contact)
-
-
 ## 🌟 About Me
 
 I’m a data analyst with a background in Health Science, currently pursuing my master’s in Data Analytics Engineering. My passion lies in uncovering insights from data and turning them into impactful solutions. I'm especially interested in healthcare data and using analytics to improve outcomes and decision-making.
