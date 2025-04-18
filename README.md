@@ -10,11 +10,11 @@ I’m a data analyst with a background in Health Science, currently pursuing my 
 
 ## 🌱  Projects
 
-- Healthcare Dataset 
-<p>Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.</p>
+#### Healthcare Dataset
+- Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.
 
-- Customer Purchase Behavior Dashboard
-<p>Analyze and visualize online retail transactions to uncover customer purchasing trends, segment high-value customers, and identify sales insights for business strategy.</p>
+#### Customer Purchase Behavior Dashboard
+- Analyze and visualize online retail transactions to uncover customer purchasing trends, segment high-value customers, and identify sales insights for business strategy.
 
 ## 🪴 Currently Learning
 
