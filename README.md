@@ -18,7 +18,6 @@ I’m a data analyst with a background in Health Science, currently pursuing my 
 
 ## 🪴 Currently Learning
 
-
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
@@ -39,8 +38,6 @@ I’m a data analyst with a background in Health Science, currently pursuing my 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-</br>
-
 ### 🌐 Web Development
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,8 +51,6 @@ I’m a data analyst with a background in Health Science, currently pursuing my 
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-</br>
-
 ### 🛠 Tools & Platforms
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -68,10 +63,8 @@ I’m a data analyst with a background in Health Science, currently pursuing my 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )
 
-
 ## 📫 Let's Connect
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jordinlh/)
-
 
 ## 🌳 GitHub Stats 
 ![Jordin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jor-din&show_icons=true&theme=buefy)
