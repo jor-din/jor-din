@@ -1,12 +1,12 @@
                      
 ![new-portfolio0img](https://user-images.githubusercontent.com/87043491/191300161-31253b0a-fd85-41d6-b5af-c2dbe527c7a4.png)
 <h2 align="center">
-I'm a Research Computing Data Analyst @ BCH 💻!
+I'm a Research Computing Data Analyst @ BCH 💻
 </h2> 
 
 ## 🌟 About Me
 
-Hello, I’m Jordin. </br>
+Hello, I’m Jordin! </br>
 I’m a data analyst with a background in health science, currently pursuing my master’s in Data Analytics Engineering. I’m passionate about using data to improve healthcare outcomes and support better decision-making. I enjoy uncovering insights through SQL, Excel, and Python, and bringing them to life through dashboards and reports.
 
 ## 🌱  Projects I'm Working On
