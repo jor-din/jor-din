@@ -21,13 +21,13 @@ I’m a data analyst with a background in health science, currently pursuing my 
 
 ### Completed Project
 
-#### Umami Kitchen Database
+#### [Umami Kitchen Database](https://github.com/jor-din/umami_kitchen_db)
 - This project models a subscription-based meal kit service that specializes in authentic Asian cuisine. While most existing services cater to Western meals, this service fills a gap in the market by delivering high-quality, restaurant-style Asian dishes directly to customers' homes.
 
-#### COVID Dashboard
+#### [COVID Dashboard](https://github.com/jor-din/covid_project)
 - This project uses SQL Server to explore global COVID-19 data, leveraging real-world datasets that include statistics on infections, deaths, population, and vaccinations. The goal is to derive meaningful insights by performing data transformations, aggregations, and analytical queries.
   
-#### Stride By Stride
+#### [Stride By Stride](https://github.com/jor-din/stride_by_stride)
 This project analyzes weekly training trends using a CSV export from a personal running tracker. It visualizes key metrics such as weekly mileage, average pace, and cadence trends over time.
 
 ## 🪴 Currently Learning
