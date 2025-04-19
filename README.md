@@ -70,7 +70,7 @@ This project analyzes weekly training trends using a CSV export from a personal 
 
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/jordinlh/)
-[Email](jordinhuang@gmail.com)
+
 
 
 
