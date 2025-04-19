@@ -6,7 +6,7 @@ I'm a Research Computing Data Analyst @ BCH 💻!
 
 ## 🌟 About Me
 
-Hello, I’m Jordin.
+Hello, I’m Jordin. </br>
 I’m a data analyst with a background in health science, currently pursuing my master’s in Data Analytics Engineering. I’m passionate about using data to improve healthcare outcomes and support better decision-making. I enjoy uncovering insights through SQL, Excel, and Python, and bringing them to life through dashboards and reports.
 
 ## 🌱  Projects I'm Working On
