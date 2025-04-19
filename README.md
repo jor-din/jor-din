@@ -9,13 +9,23 @@ I'm a Research Computing Data Analyst @ BCH 💻
 Hello, I’m Jordin! </br>
 I’m a data analyst with a background in health science, currently pursuing my master’s in Data Analytics Engineering. I’m passionate about using data to improve healthcare outcomes and support better decision-making. I enjoy uncovering insights through SQL, Excel, and Python, and bringing them to life through dashboards and reports.
 
-## 🌱  Projects I'm Working On
+## 🌱  Projects 
+
+### Current Projects
 
 #### Healthcare Dataset
 - Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.
 
 #### Customer Purchase Behavior Dashboard
 - Analyze and visualize online retail transactions to uncover customer purchasing trends, segment high-value customers, and identify sales insights for business strategy.
+
+### Completed Project
+
+#### Umami Kitchen Database
+
+#### COVID Dashboard
+
+#### Stride By Stride
 
 ## 🪴 Currently Learning
 
