@@ -13,13 +13,13 @@ I’m a data analyst with a background in health science, currently pursuing my 
 
 ### Current Projects
 
-#### Healthcare Dataset
-- Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.
-
 #### Customer Purchase Behavior Dashboard
 - Analyze and visualize online retail transactions to uncover customer purchasing trends, segment high-value customers, and identify sales insights for business strategy.
 
 ### Completed Project
+
+#### [Healthcare Dataset](https://github.com/jor-din/Healthcare-Cost)
+- Analyzing large-scale healthcare data to extract insights and trends using SQL and preparing visual dashboards for stakeholder interpretation.
 
 #### [Umami Kitchen Database](https://github.com/jor-din/umami_kitchen_db)
 - This project models a subscription-based meal kit service that specializes in authentic Asian cuisine. While most existing services cater to Western meals, this service fills a gap in the market by delivering high-quality, restaurant-style Asian dishes directly to customers' homes.
@@ -28,7 +28,7 @@ I’m a data analyst with a background in health science, currently pursuing my 
 - This project uses SQL Server to explore global COVID-19 data, leveraging real-world datasets that include statistics on infections, deaths, population, and vaccinations. The goal is to derive meaningful insights by performing data transformations, aggregations, and analytical queries.
   
 #### [Stride By Stride](https://github.com/jor-din/stride_by_stride)
-This project analyzes weekly training trends using a CSV export from a personal running tracker. It visualizes key metrics such as weekly mileage, average pace, and cadence trends over time.
+- This project analyzes weekly training trends using a CSV export from a personal running tracker. It visualizes key metrics such as weekly mileage, average pace, and cadence trends over time.
 
 ## 🪴 Currently Learning
 
