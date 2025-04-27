@@ -70,6 +70,7 @@ I’m a data analyst with a background in health science, currently pursuing my 
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jordinlh/)
+- [Email](jordinhuang@gmail.com)
 
 
 
