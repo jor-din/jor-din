@@ -1,7 +1,7 @@
                      
 ![new-portfolio0img](https://user-images.githubusercontent.com/87043491/191300161-31253b0a-fd85-41d6-b5af-c2dbe527c7a4.png)
 <h2 align="center">
-I'm a Research Computing Data Analyst @ BCH 💻
+I'm a Research Computing Data Analyst @ Boston Children's Hospital 💻
 </h2> 
 
 ## 🌟 About Me
