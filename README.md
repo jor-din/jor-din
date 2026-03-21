@@ -7,7 +7,11 @@ I'm a Research Computing Data Analyst @ Boston Children's Hospital
 ## 🌟 About Me
 
 Hello, I’m Jordin! </br>
-I’m a data analyst with a background in health science, currently pursuing my master’s in Data Analytics Engineering at Northeastern University '26. I’m passionate about using data to improve healthcare outcomes and support better decision-making. I enjoy uncovering insights through SQL, Excel, and Python, and bringing them to life through dashboards and reports.
+I’m a data analyst with a background in health science, currently pursuing my master’s in Data Analytics Engineering at Northeastern University ’26. 
+
+I’m passionate about using data to improve healthcare outcomes and support better decision-making.
+
+Beyond analytics, I’m especially interested in implementation and enablement — helping teams adopt new systems, streamline workflows, and confidently use software tools. I enjoy translating technical concepts into practical guidance, onboarding users effectively, and building processes that make technology more accessible and impactful.
 
 ## 🌱  Projects 
 
